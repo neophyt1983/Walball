@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555685561 source:/home/dale/Documents/programs/game-2/Walbal/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<ncurses.h>
+	<ctype.h>
+	<unistd.h>
+
+1555290014 source:/home/dale/Documents/programs/game-2/Walbal/ai.c
+
